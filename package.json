@@ -1,0 +1,16 @@
+{
+  "name": "webhook-relay",
+  "version": "1.0.0",
+  "description": "webhook relay microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "fetch": "^1.1.0",
+    "node-fetch": "^1.1.0"
+  }
+}
