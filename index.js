@@ -14,7 +14,7 @@
 /*
 [Unit]
 Description=whrelay - Webhook Relay service
-Documentation=https://github.com/xyhtac/tg_callbot
+Documentation=https://github.com/xyhtac/whrelay
 After=network.target
 
 [Service]
