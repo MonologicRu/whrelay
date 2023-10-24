@@ -52,12 +52,12 @@ const config = {
                 port: "80"
         },
         endpoints: {
-                MGAQPLOI: {
+                BHNKASUH: {
                         url: "",
-						method: "GET",
-						params: [ "date", "token" ]
+			method: "GET",
+			params: [ "date", "token" ]
                 }
-		}
+	}
 };
 
 
